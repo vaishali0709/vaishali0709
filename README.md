@@ -1,6 +1,6 @@
 # Vaishali Singh
 
-Data analyst with experience in SQL development and research analysis. Based in Bhopal, India, and seeking fully remote Data Analyst or Analytics Engineer roles with international teams.
+Data Analyst and Analytics Engineer candidate with professional experience in SQL development, research analysis, reporting and data validation. Based in Bhopal, India, and seeking fully remote roles with international teams.
 
 ## Selected projects
 
@@ -12,10 +12,12 @@ Data analyst with experience in SQL development and research analysis. Based in 
 
 ## Tools
 
-SQL (MySQL, BigQuery, SQLite), Python (pandas, NumPy, requests), dbt, Tableau Public, Excel, Git and GitHub Actions.
+SQL (MySQL, BigQuery, SQLite), Python (pandas, NumPy, requests), dbt, Power BI, Tableau Public, Excel, Git and GitHub Actions.
 
-## Background
+## Professional background
 
-At DST Arena, I reviewed research projects and worked on SQL or Python implementations based on assigned papers. Previously, I worked as a SQL Developer at Atoms Group and in remote customer support at Amazon.
+At DST Arena, I worked on academic and industry research projects using SQL, Excel and Python. My responsibilities also included data validation, trend analysis, Power BI and Tableau reporting, and automation of recurring reports.
 
-[LinkedIn](https://www.linkedin.com/in/vaishali-singh-73a2a5271/)
+Previously, I worked as a SQL Developer at Atoms Group and in fully remote customer support at Amazon. Earlier at Right Click Services, I worked on research, technical writing and academic development assignments, and co-authored published technical papers including a 2018 IEEE conference paper.
+
+[LinkedIn](https://www.linkedin.com/in/vaishali-singh-73a2a5271/) · [Tableau Public](https://public.tableau.com/app/profile/vaishali.singh6053/viz/NYC311ResponseTimeAnalysis/NYC311ResponseTimes)
