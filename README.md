@@ -1,6 +1,6 @@
 # Vaishali Singh
 
-Data Analyst and Analytics Engineer candidate with professional experience in SQL development, research analysis, reporting and data validation. Based in Bhopal, India, and seeking fully remote roles with international teams.
+Data Analyst with professional experience in SQL development, research analysis, reporting and data validation, plus hands-on analytics engineering portfolio work in BigQuery and dbt. Based in Bhopal, India, and seeking fully remote roles with international teams.
 
 ## Selected projects
 
